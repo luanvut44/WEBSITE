@@ -1,0 +1,8 @@
+----------14 March 2021 V 2.0-------------------
+- Fixed > Service Details page responsive issue
+
+----------02 March 2021 V 2.0-------------------
+- Fixed > Contact form field color issue
+
+----------25 January 2021 V 1.0-------------------
+- Initial release
